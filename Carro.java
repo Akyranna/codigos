@@ -32,3 +32,14 @@ class ProgramaCarro {
         carro2.imprimirDados();
     }
 }
+/*
+Explicação:
+Nesse exemplo, temos uma classe Carroque define três atributos encapsulados: marca, modeloe ano.
+Esses atributos são privados, o que significa que só podem ser acessados da própria classe Carro.
+A classe também tem um construtor que recebe valores para os atributos e um método imprimirDados()que
+imprime na tela os valores dos atributos.
+Na classe ProgramaCarro, criamos dois objetos da classe Carro usando uma palavra-chave new e
+passando os valores para o construtor. Em seguida, siga o método imprimirDados()dos objetos criados para
+exibir seus valores na tela.
+Assim, temos um exemplo que demonstra os conceitos de classes, objetos, encapsulamento e instanciação em Java.
+ */
